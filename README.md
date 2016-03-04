@@ -1,4 +1,4 @@
-# List of sites for learning online
+# List of sites for Online Learning
 
 Sites where you can learn stuff every day
 
